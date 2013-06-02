@@ -1,7 +1,7 @@
 Express Powered By
 ==================
 
-Set the X-Powered-By header
+Set the X-Powered-By header returned by Express
 
 ----
 
