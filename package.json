@@ -1,5 +1,5 @@
 {
-  "name": "node-express-powered-by",
+  "name": "express-powered-by",
   "version": "0.0.1",
   "description": "Set the X-Powered-By header returned by Express",
   "main": "index.js",
