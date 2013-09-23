@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JameHight/node-express-powered-by.git"
+    "url": "git://github.com/JamesHight/node-express-powered-by.git"
   },
   "keywords": [
     "express",
@@ -25,6 +25,6 @@
   ],
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/JameHight/node-express-powered-by/issues"
+    "url": "https://github.com/JamesHight/node-express-powered-by/issues"
   }
 }
